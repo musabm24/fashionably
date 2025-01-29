@@ -1,0 +1,21 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+desktop.ini
+ntuser.dat
+ntuser.ini
+
+# Ignore user folders
+AppData/
+OneDrive/
+Downloads/
+Documents/
+Pictures/
+Videos/
+Music/
+
+# Ignore IDE and editor settings
+.vscode/
+.idea/
+.eclipse/
+*.log
